@@ -1,1 +1,1 @@
-# Project_Analyzing-Stock-Performance-and-Building-a-Dashboard
+# Project: Analyzing Stock Performance and Building a Dashboard
