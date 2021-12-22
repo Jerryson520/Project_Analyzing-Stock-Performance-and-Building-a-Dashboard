@@ -7,5 +7,5 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
 * The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
 
 ## Project process
-1. Extracting Stock Data Using a Python Library
+1. Extracting Stock Data Using **yfinance**
 2. 
