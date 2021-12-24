@@ -8,4 +8,4 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
 
 ## Project process
 1. Extracting Stock Data Using **yfinance**
-2. 
+2. Extracting stock Data Using WebScraping **(BeautifulSoup + Pandas)**
